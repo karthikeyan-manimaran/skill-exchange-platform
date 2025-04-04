@@ -1,9 +1,9 @@
-# Skillex - Modern E-Learning Platform
+# Skill exchange Platform
 
 
 ## Overview
 
-Skillex is a cutting-edge e-learning platform built with Next.js that connects learners with expert instructors. The platform offers a seamless learning experience with interactive courses, personalized learning paths, and comprehensive progress tracking.
+this is a cutting-edge e-learning platform built with Next.js that connects learners with expert instructors. The platform offers a seamless learning experience with interactive courses, personalized learning paths, and comprehensive progress tracking.
 
 ## Features
 
