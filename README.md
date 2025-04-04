@@ -1,6 +1,5 @@
 # Skillex - Modern E-Learning Platform
 
-![Skillex Logo](/public/logo.png)
 
 ## Overview
 
